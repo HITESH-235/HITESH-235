@@ -3,7 +3,7 @@
 <div>
 <img align="right" height="auto" src="https://github.com/HITESH-235/CSS/blob/32af15658ae0d49a33d29ae462b4345485b9abe8/Image/programmer.png"><br>
 <b>I am 15 years old studying📚 in ninth standard. <br><br>
-I have been coding⌨ since past 2 years,<br>
+I have been coding⌨ since 2 years,<br>
 and currently focusing🎯 on Python & JavaScript.<br><br>
 I will be learning new stuff🎨 and languages💻 soon.<br><br>
 You can 📨 mail me on- sinhahitesh0307@gmail.com</b><hr>
