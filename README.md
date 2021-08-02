@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi👋, this is Hitesh Sinha!</h1>
-<h3 align="center">A rookie programmer out of Nowhere :]</h3><br><hr>
+<h3 align="center">A rookie programmer out of Nowhere :]</h3><hr>
 
 <b>I am 15 years old studying📚 in ninth standard. <br><br>
 I have been coding⌨ since past 2 years,<br>
