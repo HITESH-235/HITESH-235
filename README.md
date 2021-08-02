@@ -1,7 +1,7 @@
 ### <h1 align="center">Hi👋, this is Hitesh Sinha!</h1>
 <h3 align="center">A rookie programmer out of Nowhere :]</h3><hr>
 <div>
-<img align="right" height="150px" src="https://github.com/HITESH-235/CSS/blob/32af15658ae0d49a33d29ae462b4345485b9abe8/Image/programmer.png"><br>
+<img align="right" height="auto" src="https://github.com/HITESH-235/CSS/blob/32af15658ae0d49a33d29ae462b4345485b9abe8/Image/programmer.png"><br>
 <b>I am 15 years old studying📚 in ninth standard. <br><br>
 I have been coding⌨ since past 2 years,<br>
 and currently focusing🎯 on Python & JavaScript.<br><br>
