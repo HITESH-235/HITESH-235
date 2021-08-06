@@ -2,7 +2,7 @@
 <h3 align="center">A rookie programmer out of Nowhere :]</h3><hr>
 <div>
   <img align="right" height="auto" width="auto" src="https://github.com/HITESH-235/CSS/blob/32af15658ae0d49a33d29ae462b4345485b9abe8/Image/programmer.png"><br>
-  <div display = "inline" width = auto>
+  <div display = "inline" width = "auto" height = "auto">
   <b>
     <p>I am 15 years old studying📚 in ninth standard.</p>
     <p>I have been coding⌨ for 2 years,<br>and currently focusing🎯 on Python & JavaScript.</p>
