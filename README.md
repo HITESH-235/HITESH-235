@@ -1,14 +1,15 @@
 ### <h1 align="center">Hi👋, this is Hitesh Sinha!</h1>
 <h3 align="center">A rookie programmer out of Nowhere :]</h3><hr>
 <div>
-  <img align="auto" height="auto" width="auto" src="https://github.com/HITESH-235/CSS/blob/32af15658ae0d49a33d29ae462b4345485b9abe8/Image/programmer.png"><br>
+  <img align="right" display="flex" flex-wrap = "wrap" height="auto" width="auto" src="https://github.com/HITESH-235/CSS/blob/32af15658ae0d49a33d29ae462b4345485b9abe8/Image/programmer.png"><br>
+  <div display = "inline">
   <b>
     <p>I am 15 years old studying📚 in ninth standard.</p>
-    <p>I have been coding⌨ for 2 years,<br>
-      and currently focusing🎯 on Python & JavaScript.</p>
+    <p>I have been coding⌨ for 2 years,<br>and currently focusing🎯 on Python & JavaScript.</p>
     I will be learning new stuff🎨 and languages💻 soon.<br><br>
     You can 📨 mail me on- sinhahitesh0307@gmail.com
   </b><hr>
+  </div>
 </div>
   <h3 align="left">Languages:</h3>
   <p align="left"> 
