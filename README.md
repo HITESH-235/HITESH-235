@@ -1,5 +1,5 @@
-<link rel="shortcut icon" src="https://raw.githubusercontent.com/HITESH-235/JavaScript/main/GOGGLES.ico" type="image/x-icon">
-<body background="white">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
+<body background="white" style="font-family: Oswald">
 <h1 align="center">Hi👋, this is Hitesh Sinha!</h1>
 <h3 align="center">A rookie programmer out of Nowhere :]</h3><hr>
 <div align="left">
