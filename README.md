@@ -1,9 +1,9 @@
+<body background="white">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
 <style>
   body {
     font-family: 'Oswald';}
 </style>  
-<body background="white">
 <h1 align="center">Hi👋, this is Hitesh Sinha!</h1>
 <h3 align="center">A rookie programmer out of Nowhere :]</h3><hr>
 <div align="left">
