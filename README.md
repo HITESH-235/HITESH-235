@@ -6,7 +6,7 @@
     <p>I am 15 years old studying📚 in ninth standard.</p>
     <p>I have been coding⌨ for 2 years, and currently focusing🎯 on Python & JavaScript.</p>
     <p>I will be learning new stuff🎨 and languages💻 soon.</p>
-    <p>You can 📨 mail me on- sinhahitesh0307@gmail.com</p>
+    <p>You can 📨 mail me on- codonstream.72@gmail.com</p>
   </b><hr>
 </div>
   <h3 align="center">Languages:</h3>
