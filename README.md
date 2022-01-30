@@ -1,5 +1,5 @@
 
-<h1 style="align:center; font-family:Agency FB">Hi👋, this is Hîtesh Sînha!</h1>
+<h1 align="center" font-family="inherit">Hi👋, this is Hîtesh Sînha!</h1>
 <h3 align="center">A rookie programmer out of Nowhere :]</h3><hr>
 <div align="left">
   <b>
