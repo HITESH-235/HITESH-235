@@ -3,8 +3,8 @@
 <h3 align="center">A rookie programmer out of Nowhere :]</h3><hr>
 <div align="left">
   <b>
-    <p>I am 15 years old studying📚 in tenth standard.</p>
-    <p>I have been coding⌨ for 2 years, and currently focusing🎯 on Python & JavaScript.</p>
+    <p>I am 16 years old studying📚 in eleventh standard.</p>
+    <p>I have been coding⌨ for 3 years, and currently focusing🎯 on Python & JavaScript.</p>
     <p>I will be learning new stuff🎨 and languages💻 soon.</p>
     <p>You can 📨 mail me on- codonstream.72@gmail.com</p>
   </b><hr>
