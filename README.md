@@ -5,7 +5,7 @@
   <b>
     <p>I am 18 studying📚 in Scaler Institute.</p>
     <p>I will be learning new stuff🎨 and languages💻 soon.</p>
-    <p>You can 📨 mail me on- codonstream.72@gmail.com</p>
+    <p>You can 📨 mail me on- <a href="mailto:codonstream.72@gmail.com">codonstream.72@gmail.com</a></p>
   </b><hr>
 </div>
   <h3 align="center">Languages:</h3>
