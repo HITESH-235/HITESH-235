@@ -1,6 +1,6 @@
 <!-- Retro Header with Typing SVG using Press Start 2P -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+this+is+H%C3%AEtesh+S%C3%AEnha!;A+Beginner+Programmer" alt="Typing SVG Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+this+is+HITESH+SINHA!;A+Beginner+Programmer...." alt="Typing SVG Header" />
 </p>
 
 <hr style="border-top: 2px dashed #00FFFF;">
@@ -16,7 +16,7 @@
 <hr style="border-top: 2px dashed #00FFFF;">
 
 <h3 align="center" style="font-family: 'Courier New', monospace; color: #00FFFF;">
-  ⚡ Languages I Know:
+  📚 Languages I Know:
 </h3>
 
 <p align="center">
