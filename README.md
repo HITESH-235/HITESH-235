@@ -1,7 +1,12 @@
 <!-- Retro Header with Typing SVG using Press Start 2P -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+this+is+HITESH+SINHA!;A+Beginner+Programmer...." alt="Typing SVG Header" />
-</p>
+<h1 align="center">
+  Hi 👾, this is Hitesh Sinha
+</h1>
+
+<h3 align="center">
+  💻 A beginner programmer
+</h3>
+
 
 <hr style="border-top: 2px dashed #00FFFF;">
 
