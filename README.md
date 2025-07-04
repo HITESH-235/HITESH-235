@@ -14,7 +14,7 @@
   <b>
     <p>📚 I am 18 and currently studying at <span style="color:#00FFFF;">Scaler Institute</span>.</p>
     <p>🎨 I will be learning new stuff and programming languages 💻 soon.</p>
-    <p>📨 You can mail me at: <a href="mailto:hiteshsinha2007@gmail.com" style="color:#39FF14;">codonstream.72@gmail.com</a></p>
+    <p>📨 You can mail me at: <a href="mailto:hiteshsinha2007@gmail.com" style="color:#39FF14;">hiteshsinha2007@gmail.com</a></p>
   </b>
 </div>
 
