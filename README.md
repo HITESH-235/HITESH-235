@@ -1,6 +1,6 @@
 <!-- Retro Header with Typing SVG using Press Start 2P -->
 <h1 align="center">
-  Hi 👾, this is Hitesh Sinha
+  Hi 👋, this is Hitesh Sinha
 </h1>
 
 <h3 align="center">
